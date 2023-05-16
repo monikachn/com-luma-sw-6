@@ -1,0 +1,2 @@
+2023-05-16 11:05:309 INFO  WomenPage :51 - mouse hover on Women[[ChromeDriver: chrome on WINDOWS (dac70f6e76d1222a0b4cc85a8278aec9)] -> xpath: //a[@id='ui-id-4']//span[contains(text(),'Women')]]
+2023-05-16 11:05:438 INFO  WomenPage :51 - mouse hover on Women[[ChromeDriver: chrome on WINDOWS (cab563c90b969123304b265022a9d93f)] -> xpath: //a[@id='ui-id-4']//span[contains(text(),'Women')]]
